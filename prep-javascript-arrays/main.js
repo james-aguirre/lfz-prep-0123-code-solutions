@@ -1,0 +1,10 @@
+var languages = ['html', 'css', 'javascript', 'react', 'node', 'postgres'];
+console.log(languages);
+var firstElement = 'The first element is ' + languages[0];
+console.log(firstElement);
+var thirdElement = 'The third element is ' + languages[2];
+console.log(thirdElement);
+var length = 'The array length is ' + languages.length;
+console.log(length);
+var lastElement = 'The last element is ' + languages[5];
+console.log(lastElement);
